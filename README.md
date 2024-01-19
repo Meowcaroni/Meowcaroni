@@ -2,7 +2,6 @@
 - I’m a first-year Computer Engineering student @ UCF!
 - Languages: Python (Advanced), C (Beginner), Verilog (Beginner)
 - Interests: RISC-V, HDL
-- Contacts:
 - Email: sebastiancandelaria@live.com
 - Discord: Game Boy Advance SP #5513
 
