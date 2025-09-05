@@ -1,7 +1,7 @@
 - Hi, I’m @Meowcaroni / GameBoyAdvSP
-- I’m a second-year Computer Engineering student @ UCF!
-- Languages: Python (Intermediate), C (Advanced), Java (Beginner), Verilog (Intermediate)
-- Interests: Computer Architecture (EX: RISC-V), Hardware Design
+- I’m a third-year Computer Engineering student @ UCF!
+- Languages: Python (Intermediate), C (Advanced), Java (Intermediate), Verilog (Intermediate)
+- Interests: Computer Architecture (EX: RISC-V), Hardware Design & Verification
 - Email: sebastiancandelaria@live.com
 - Discord: Game Boy Advance SP #5513
 
